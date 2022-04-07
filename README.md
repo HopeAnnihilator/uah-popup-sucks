@@ -2,7 +2,7 @@
 remove that stupid popup on canvas, CHROME BASED BROWSERS ONLY
 
 1. download and extract all files to a folder
-2. go to your browsers extensions page
+2. go to your browsers extensions page  
   ex:  
     Chrome: chrome://extensions  
     Edge: edge://extensions  
