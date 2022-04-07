@@ -1,6 +1,6 @@
 {
-  "name": "Fuck this stupid popup",
-  "description": "Remove the ad on uah.instructure.com",
+  "name": "Canvas Popup Remover",
+  "description": "Remove the annoying admin messages in Canvas",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
@@ -8,7 +8,7 @@
   },
   "content_scripts": [
     {
-    "matches": ["*://uah.instructure.com/"],
+    "matches": ["*://*.instructure.com/"],
     "js": ["BEGONE.js"],
     "run_at": "document_end"
     }
