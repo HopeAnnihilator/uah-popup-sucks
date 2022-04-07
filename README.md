@@ -1,5 +1,5 @@
 # uah-popup-sucks
-remove that stupid popup on canvas, CHROME BASED BROWSERS ONLY
+remove that stupid popup on canvas, CHROME BASED BROWSERS ONLY (if you arent sure, your browser is probably chrome based)
 
 1. download and extract all files to a folder
 2. go to your browsers extensions page  
